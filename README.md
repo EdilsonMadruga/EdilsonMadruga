@@ -13,7 +13,7 @@
 - 💬 Ask me about...O que eu puder ajudar
 - 📫 How to reach me: ... Redes sociais abaixo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a52ac5f&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Edilson+Madruga;Tenho+54+anos+de+idade;Sou+do+Brazil;Minha+Graduação+systems+Develop052AC5ment;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a52ac5f&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Edilson+Madruga;Tenho+54+anos+de+idade;Sou+do+Brazil;Minha+Graduação+systems+Development;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdilsonMadruga&bg_color=a52ac5f&color=b13583&line=1ef4fa&point=cc3400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
