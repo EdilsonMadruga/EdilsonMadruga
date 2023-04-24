@@ -7,14 +7,11 @@
 
   #   ## Hi there 👋
             
-- 🔭 I’m currently working on ...Iluminação Cenica    
+- 🔭 I’m currently working on ...Iluminação Cénica    
 - 🌱 I’m currently learning ... Linguagens de Programação
-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... Pessoas com paciencia para explicar 
-- 💬 Ask me about   O que eu puder ajudr...
-- 📫 How to reach me: ... Redes ssociais abaixo
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about...O que eu puder ajudar
+- 📫 How to reach me: ... Redes sociais abaixo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a52ac5f&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Edilson+Madruga;Tenho+54+anos+de+idade;Sou+do+Brazil;Minha+Graduação+systems+Develop052AC5ment;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
